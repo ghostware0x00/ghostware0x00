@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SHROUDSOURAV&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SHROUDSOURAV&limit=5&theme=shadow_green&combine_all_yearly_contributions=true&text_color=ffffff)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SHROUDSOURAV&icon=0&color=3)](https://visitcount.itsvg.in)
