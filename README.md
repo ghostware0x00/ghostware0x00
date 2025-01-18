@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF721&background=FFFFFF00&width=435&lines=Hi+!!!+I+am+Sourav;-+aka+SHROUDSOURAV)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
 👋 Hi, I’m SOURAV BOSE<br>👀 I’m interested in Cybersecurity, Ethical Hacking, Pentesting and Software Exploitation<br>🌱 I’m currently learning Binary Exploitation and Reverse Engineering and DSA using C programming language<br>💞️ I’m looking forward to work with people working on Programming and Cybersecurity projects<br>😄 Pronouns: He/Him
 
