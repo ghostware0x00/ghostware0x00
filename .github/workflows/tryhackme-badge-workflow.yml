@@ -1,3 +1,4 @@
+
 name: TryHackMe Update Badge
 
 on:
@@ -11,8 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: SHROUDSOURAV/tryhackme-badge-workflow@main
+      - uses: p4p1/tryhackme-badge-workflow@main
         with:
           # Replace with your tryhackme username
           username: "SouravBose"
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Do not paste your github token here - this is a placeholder
+                                                  # and will pull your github token automatically
