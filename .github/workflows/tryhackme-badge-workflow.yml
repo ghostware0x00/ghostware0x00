@@ -2,7 +2,6 @@ name: TryHackMe Update Badge
 
 on:
   schedule:
-    # Make it run every 24 hour
     - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
@@ -13,9 +12,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: SHROUDSOURAV/tryhackme-badge-workflow@main
         with:
-          # Replace with your tryhackme username
-          image_path: './assets/thm_propic.png'
           username: "SouravBose"
-          user_id: '2223060'
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Do not paste your github token here - this is a placeholder
-                                                  # and will pull your github token automatically
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
