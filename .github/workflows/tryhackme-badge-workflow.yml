@@ -15,8 +15,6 @@ jobs:
       - uses: SHROUDSOURAV/tryhackme-badge-workflow@main
         with:
           # Replace with your tryhackme username
-          image_path: './assets/thm_propic.png'
-          user_id: '2223060'
           username: "SouravBose"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Do not paste your github token here - this is a placeholder
                                                   # and will pull your github token automatically
