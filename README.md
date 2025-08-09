@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I’m SOURAV BOSE<br>👀 I’m interested in Cybersecurity, Ethical Hacking, Pentesting and Software Exploitation<br>🌱 I’m currently learning Penetration Testing and Web Development<br>💞️ I’m looking forward to work with people working on Programming and Cybersecurity projects<br>😄 Pronouns: He/Him
+👋 Hi, I’m SOURAV BOSE<br>👀 I’m interested in Penetration Testing, and Software Exploitation<br>🌱 I’m currently learning Penetration Testing and Web Development<br>💞️ I’m looking forward to work with people working on Web Dev Backend and CyberSec Projects<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
