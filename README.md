@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=500&lines=Hi+!!!+I+am+Sourav;-+aka+SHROUDSOURAV;-+Penetration+Tester+%7C+Exploit+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=500&lines=Hi+!!!+I+am+Sourav;-+aka+SHROUDSOURAV;-+Penetration+Tester)](https://git.io/typing-svg)
 
 # 💫 About Me:
 👋 Hi, I’m **SOURAV BOSE**  
