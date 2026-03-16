@@ -28,6 +28,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHROUDSOURAV&theme=shadow_green&bg_color=000000&title_color=39FF14&text_color=FFFFFF&border_color=39FF14&layout=compact)
 
 ---
-![snake gif](https://github.com/SHROUDSOURAV/SHROUDSOURAV/blob/output/github-contribution-grid-snake-dark.svg)
 
 [![](https://visitcount.itsvg.in/api?id=SHROUDSOURAV&icon=5&color=10)](https://visitcount.itsvg.in)
+
+![snake gif](https://github.com/SHROUDSOURAV/SHROUDSOURAV/blob/output/github-snake-dark.svg)
