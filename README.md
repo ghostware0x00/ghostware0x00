@@ -21,7 +21,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=SHROUDSOURAV&theme=shadow_green&bg_color=000000&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=39FF14)
+![](https://github-readme-stats.vercel.app/api?username=SHROUDSOURAV&theme=shadow_green&bg_color=000000&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=39FF14&cache_seconds=1800)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=SHROUDSOURAV&theme=shadow_green&background=000000&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&sideNums=39FF14&sideLabels=39FF14&ring=39FF14&fire=39FF14)
 
