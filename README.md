@@ -21,12 +21,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=SHROUDSOURAV&theme=shadow_green&bg_color=000000&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=39FF14&cache_seconds=1800)
+![](https://github-stats.vercel.app/api?username=SHROUDSOURAV&theme=shadow_green&bg_color=000000&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=39FF14)
 
-![](https://nirzak-streak-stats.vercel.app/?user=SHROUDSOURAV&theme=shadow_green&background=000000&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&sideNums=39FF14&sideLabels=39FF14&ring=39FF14&fire=39FF14)
+![](https://github-readme-streak-stats.herokuapp.com?user=SHROUDSOURAV&theme=shadow_green&background=000000)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHROUDSOURAV&theme=shadow_green&bg_color=000000&title_color=39FF14&text_color=FFFFFF&border_color=39FF14&layout=compact)
-
+![](https://github-stats.vercel.app/api/top-langs/?username=SHROUDSOURAV&theme=shadow_green&bg_color=000000&title_color=39FF14&text_color=FFFFFF&border_color=39FF14&layout=compact)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=SHROUDSOURAV&icon=5&color=10)](https://visitcount.itsvg.in)
