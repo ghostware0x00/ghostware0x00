@@ -1,12 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=500&lines=Hi+!!!+I+am+ghostware0x00;-+Penetration+Tester)](https://git.io/typing-svg)
 
-# 💫 About Me:
-👋 Hi, I’m **SOURAV BOSE**  
-👀 I’m interested in **Penetration Testing, Binary Exploitation and Software Exploitation**  
-🌱 I’m currently practicing **Reverse Engineering and Exploit Development**  
-💞️ I’m looking forward to collaborate on **Cybersecurity and Exploit Dev Projects**  
-😄 Pronouns: **He/Him**
-
 ---
 
 ## 🌐 Socials:
