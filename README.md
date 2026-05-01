@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=500&lines=Hi+!!!+I+am+Sourav;-+aka+SHROUDSOURAV;-+Penetration+Tester)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=500&lines=Hi+!!!+I+am+ghostware0x00;-+Penetration+Tester)](https://git.io/typing-svg)
 
 # 💫 About Me:
 👋 Hi, I’m **SOURAV BOSE**  
@@ -21,13 +21,14 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=SHROUDSOURAV&theme=shadow_green&bg_color=000000&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14&border_color=39FF14)
+![](https://github-readme-stats.vercel.app/api?username=ghostware0x00&theme=shadow_green&bg_color=000000&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14&border_color=39FF14)
 
-![](https://github-readme-streak-stats.herokuapp.com?user=SHROUDSOURAV&theme=shadow_green&background=000000&ring=39FF14&fire=39FF14&currStreakNum=C9D1D9&currStreakLabel=39FF14&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E)
+![](https://github-readme-streak-stats.herokuapp.com?user=ghostware0x00&theme=shadow_green&background=000000&ring=39FF14&fire=39FF14&currStreakNum=C9D1D9&currStreakLabel=39FF14&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHROUDSOURAV&layout=compact&theme=shadow_green&bg_color=000000&title_color=39FF14&text_color=C9D1D9&border_color=39FF14)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostware0x00&layout=compact&theme=shadow_green&bg_color=000000&title_color=39FF14&text_color=C9D1D9&border_color=39FF14)
+
 ---
 
-[![](https://visitcount.itsvg.in/api?id=SHROUDSOURAV&icon=5&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ghostware0x00&icon=5&color=10)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/SHROUDSOURAV/SHROUDSOURAV/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/ghostware0x00/ghostware0x00/blob/output/github-snake-dark.svg)
