@@ -28,9 +28,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=ghostware0x00&theme=shadow_green&bg_color=000000&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=39FF14)
-
 ![](https://github-readme-streak-stats.herokuapp.com?user=ghostware0x00&theme=shadow_green&background=000000&ring=39FF14&fire=39FF14&currStreakNum=FFFFFF&currStreakLabel=39FF14&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B9498)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostware0x00&layout=compact&theme=shadow_green&bg_color=000000&title_color=39FF14&text_color=FFFFFF&border_color=39FF14)
 
 ---
