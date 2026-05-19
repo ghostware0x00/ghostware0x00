@@ -1,20 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=500&lines=Hi+!!!+I+am+ghostware0x00;-+Penetration+Tester)](https://git.io/typing-svg)
 
-```bash
- ▄████  ██░ ██  ▒█████    ██████ ▄▄▄█████▓ █     █░ ▄▄▄       ██▀███  ▓█████ 
-██▒ ▀█▒▓██░ ██▒▒██▒  ██▒▒██    ▒ ▓  ██▒ ▓▒▓█░ █ ░█░▒████▄    ▓██ ▒ ██▒▓█   ▀ 
-▒██░▄▄▄░▒██▀▀██░▒██░  ██▒░ ▓██▄   ▒ ▓██░ ▒░▒█░ █ ░█ ▒██  ▀█▄  ▓██ ░▄█ ▒▒███   
-░▓█  ██▓░▓█ ░██ ▒██   ██░  ▒   ██▒░ ▓██▓ ░ ░█░ █ ░█ ░██▄▄▄▄██ ▒██▀▀█▄  ▒▓█  ▄ 
-░▒▓███▀▒░▓█▒░██▓░ ████▓▒░▒██████▒▒  ▒██▒ ░ ░░██▒██▓  ▓█   ▓██▒░██▓ ▒██▒░▒████▒
- ░▒   ▒  ▒ ░░▒░▒░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░  ▒ ░░   ░ ▓░▒ ▒   ▒▒   ▓▒█░░ ▒▓ ░▒▓░░░ ▒░ ░
-  ░   ░  ▒ ░▒░ ░  ░ ▒ ▒░ ░ ░▒  ░ ░    ░      ▒ ░ ░    ▒   ▒▒ ░  ░▒ ░ ▒░ ░ ░  ░
-░ ░   ░  ░  ░░ ░░ ░ ░ ▒  ░  ░  ░    ░        ░   ░    ░   ▒     ░░   ░    ░   
-      ░  ░  ░  ░    ░ ░        ░                 ░          ░  ░   ░        ░  ░
-                                                                                
-                              ░█▀█░▀▄▀░█▀█░█▀█
-                              ░█▄█░█░█░█▄█░█▄█
-```
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourav-bose-b50198290) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@souravbose361) 
 
